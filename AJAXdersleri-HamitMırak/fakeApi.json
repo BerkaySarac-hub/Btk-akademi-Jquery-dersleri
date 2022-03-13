@@ -1,0 +1,18 @@
+{
+    "posts": [
+        { "id": 1, "FirstName": "Berkay", "LastName": "Saraç" },
+        { "id": 2, "FirstName": "Berkay", "LastName": "Saraç" },
+        { "id": 3, "FirstName": "Berkay", "LastName": "Saraç" }
+    ],
+    "deneme": [
+        { "id": 1, "FirstName": "Berkay", "LastName": "Saraç" },
+        { "id": 2, "FirstName": "Berkay", "LastName": "Saraç" },
+        { "id": 3, "FirstName": "Berkay", "LastName": "Saraç" }
+    ],
+    "comments": [
+        { "id": 1, "body": "Some body contexts are here... 1", "PostId": 1 },
+        { "id": 2, "body": "Some body contexts are here... 2", "PostId": 2 }
+
+    ],
+    "profile": { "name": "typicode" }
+}
